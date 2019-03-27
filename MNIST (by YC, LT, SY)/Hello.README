@@ -1,0 +1,17 @@
+Hello, this is the code of Group 94, for Mini Project3.
+
+This is the best model we have trained (among more than 20 models we have tested), wchich has 94.1% accuracy in the Kaggle Leaderboard.
+
+Since the preprocess takes a long time, we have created a local pkl file, which contains the the dataset that after preprocess for our training.
+
+======================================================================
+
+To run this python file, please place the original data set into a file names 'input', and place the input file parallelly with the python code.
+
+Then just run the code to reimplement our experiment.
+
+======================================================================
+
+These projects takes  a very long time to actually complete. Every progress contains huge efforts. But it is worthwhiling and we actually learned a lot from it! Thanks for your understanding. Exciting Project.
+
+----Group 94
